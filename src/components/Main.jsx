@@ -30,7 +30,7 @@ const Main = () => {
                 2000,
                 "Variedade de artesanatos",
                 2000,
-                "Faça-nos uma visita no Mercado no Produtor de Imbituba!",
+                "Faça-nos uma visita!",
                 2000,
               ]}
               wrapper="span"
