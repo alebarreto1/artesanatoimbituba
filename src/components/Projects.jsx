@@ -6,11 +6,13 @@ import ivaThirdPic from "../assets/img/iva3.jpg";
 import ivaFourthPic from "../assets/img/iva4.jpg";
 import ivaFifthPic from "../assets/img/iva5.jpg";
 import ivaSixthPic from "../assets/img/iva6.jpg";
-import arleteFirstPic from "../assets/img/arlete1.jpg";
+import arleteFirstPic from "../assets/img/arlete6.jpeg";
 import arleteSecPic from "../assets/img/arlete2.jpg";
 import arleteThirdPic from "../assets/img/arlete3.jpg";
-import arleteFourthPic from "../assets/img/arlete4.jpg";
-import arleteFifthPic from "../assets/img/arlete5.jpg";
+import arleteFourthPic from "../assets/img/arlete7.jpeg";
+import arleteFifthPic from "../assets/img/arlete8.jpeg";
+import arleteSixthPic from "../assets/img/arlete9.jpeg";
+import arleteSeventhPic from "../assets/img/arlete10.jpeg";
 import andreiaFirstPic from "../assets/img/andreia1.jpg";
 import andreiaSecPic from "../assets/img/andreia2.jpg";
 import andreiaThirdPic from "../assets/img/andreia3.jpg";
@@ -35,19 +37,25 @@ const Projects = () => {
         />
         <ProjectItem img={ivaThirdPic} title="Artesã: Ivaldete" />
         <ProjectItem img={giselleFirstPic} title="Artesã: Giselle" />
-        <ProjectItem img={giselleSecPic} title="Artesã: Giselle" />
-        <ProjectItem img={andreiaFirstPic} title="Artesã: Andréia" />
         <ProjectItem img={arleteFirstPic} title="Artesã: Arlete" />
+        <ProjectItem img={giselleSecPic} title="Artesã: Giselle" />
         <ProjectItem img={arleteFifthPic} title="Artesã: Arlete" />
+        <ProjectItem img={andreiaFirstPic} title="Artesã: Andréia" />
+
         <ProjectItem img={ivaSecPic} title="Artesã: Ivaldete" />
         <ProjectItem img={arleteSecPic} title="Artesã: Arlete" />
         <ProjectItem img={ivaFourthPic} title="Artesã: Ivaldete" />
         <ProjectItem img={ivaFifthPic} title="Artesã: Ivaldete" />
+        <ProjectItem img={ivaSixthPic} title="Artesã: Ivaldete" />
         <ProjectItem img={arleteThirdPic} title="Artesã: Arlete" />
         <ProjectItem img={andreiaSecPic} title="Artesã: Andréia" />
-        <ProjectItem img={ivaSixthPic} title="Artesã: Ivaldete" />
+
         <ProjectItem img={arleteFourthPic} title="Artesã: Arlete" />
+        <ProjectItem img={arleteSixthPic} title="Artesã: Arlete" />
         <ProjectItem img={andreiaThirdPic} title="Artesã: Andréia" />
+
+        <ProjectItem img={arleteSeventhPic} title="Artesã: Arlete" />
+
         <ProjectItem img={giselleThirdPic} title="Artesã: Giselle" />
       </div>
     </div>
