@@ -13,6 +13,10 @@ const artistWork = [
     details: "Email: arleteartista46@gmail.com",
   },
   {
+    nome: "Eliane Rosa",
+    whatsapp: "whatsapp: 48 99982-0233",
+  },
+  {
     nome: "Giselle",
     whatsapp: "whatsapp: 48 99949-4465",
     details: "Instagram: @amartelunadisenhos - Facebook: @amartelunadisenhos",
