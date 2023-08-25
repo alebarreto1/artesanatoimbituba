@@ -21,6 +21,11 @@ const artistWork = [
     nome: "Ivaldete",
     whatsapp: "whatsapp: 44 99908-9195",
   },
+  {
+    nome: "Maria Helena",
+    whatsapp: "whatsapp: 48 99136-2526",
+    details: "Instagram: @helena.artesanato_acessorio",
+  },
 ];
 
 const Work = () => {

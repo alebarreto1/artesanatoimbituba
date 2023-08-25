@@ -19,6 +19,12 @@ import andreiaThirdPic from "../assets/img/andreia3.jpg";
 import giselleFirstPic from "../assets/img/giselle1.jpg";
 import giselleSecPic from "../assets/img/giselle2.jpg";
 import giselleThirdPic from "../assets/img/giselle3.jpg";
+import mariaFirstPic from "../assets/img/maria1.jpeg";
+import mariaSecPic from "../assets/img/maria2.jpeg";
+import mariaThirdPic from "../assets/img/maria3.jpeg";
+import mariaFourthPic from "../assets/img/maria4.jpeg";
+import mariaFifthPic from "../assets/img/maria5.jpeg";
+import mariaSixthPic from "../assets/img/maria6.jpeg";
 
 const Projects = () => {
   return (
@@ -49,12 +55,18 @@ const Projects = () => {
         <ProjectItem img={ivaSixthPic} title="Artesã: Ivaldete" />
         <ProjectItem img={arleteThirdPic} title="Artesã: Arlete" />
         <ProjectItem img={andreiaSecPic} title="Artesã: Andréia" />
+        <ProjectItem img={mariaFifthPic} title="Artesã: Maria Helena" />
+        <ProjectItem img={mariaFourthPic} title="Artesã: Maria Helena" />
 
         <ProjectItem img={arleteFourthPic} title="Artesã: Arlete" />
         <ProjectItem img={arleteSixthPic} title="Artesã: Arlete" />
         <ProjectItem img={andreiaThirdPic} title="Artesã: Andréia" />
-
         <ProjectItem img={arleteSeventhPic} title="Artesã: Arlete" />
+        <ProjectItem img={mariaFirstPic} title="Artesã: Maria Helena" />
+        <ProjectItem img={mariaSixthPic} title="Artesã: Maria Helena" />
+
+        <ProjectItem img={mariaSecPic} title="Artesã: Maria Helena" />
+        <ProjectItem img={mariaThirdPic} title="Artesã: Maria Helena" />
 
         <ProjectItem img={giselleThirdPic} title="Artesã: Giselle" />
       </div>
